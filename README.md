@@ -1,5 +1,5 @@
 
-## TEST DESARROLLADOR INXAIT COPR.
+## TEST DESARROLLADOR INXAIT CORP.
 
 
 Esta es una prueba realizada para el cargo de desarrollador WEB solicitada por Inxait Corp.
